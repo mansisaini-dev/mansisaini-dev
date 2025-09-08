@@ -12,7 +12,7 @@
 🚀 Always eager to learn new technologies and explore open-source.  
 🎯 My goal is to build impactful projects and grow as a **software developer**.  
 📚 Currently learning **React, Node.js, and MongoDB**.  
-📫 Reach out to me at: **your-email@example.com**  
+📫 Reach out to me at: **mansisaini2405014@gmail.com**  
 
 ---
 
@@ -48,7 +48,7 @@
 
 ###### Backend & Frameworks:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+
 
 ###### Databases:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
@@ -57,7 +57,7 @@
 ###### Tools:
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+
 
 ---
 
